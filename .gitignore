@@ -1,0 +1,6 @@
+# originals, about 530 MB
+source/
+# internal client notes: this repo is public and Pages serves every file in it
+NOTES.md
+CREDITS.md
+.DS_Store
